@@ -1,0 +1,30 @@
+.colortext {
+    color: red;
+}
+.colortext2{
+    color: blue;
+}
+.colortext3 {
+    color: green;
+}
+.colortext4 {
+    color:pink;
+}
+.colortext5 {
+    color: yellow;
+}
+.colortext6 {
+    color: burlywood;
+}
+.stuny{
+list-style-type:disc;
+list-style-position:outside;
+}
+.duhi{
+    list-style-type:"§  ";
+list-style-position:outside;
+}
+.drums{
+    list-style-type:circle;
+    list-style-position:outside;
+    }
